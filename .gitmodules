@@ -1,9 +1,6 @@
 [submodule "source/libs/libopencm3"]
 	path = source/libs/libopencm3
 	url = https://github.com/libopencm3/libopencm3.git
-[submodule "source/libs/freertos"]
-	path = source/libs/freertos
-	url = https://github.com/dimtass/freertos.git
 [submodule "source/libs/stm32-usb-fs-device-driver"]
 	path = source/libs/stm32-usb-fs-device-driver
 	url = https://github.com/dimtass/stm32-usb-fs-device-driver.git
